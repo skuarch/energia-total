@@ -1,0 +1,24 @@
+body {
+    padding-top: 60px;    
+}
+img {
+    width: 100%
+}
+p{
+	text-align: justify;
+}
+
+._1{
+	margin:auto;
+	width: 40%;
+	height: 5em;
+	max-height: 90px;
+	clear: both;
+}
+
+._2{
+	width: 50em;
+	height: 10em;
+	max-height: 15px;
+	clear:both;
+}
